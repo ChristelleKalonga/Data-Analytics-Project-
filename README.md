@@ -1,2 +1,2 @@
 # Data-Analytics-Project-
-This project showcases SQL Skills, data visualisation 
+This project is doing a sale performance analysis of a retail dataset using SQL, Power BI and Excel.
